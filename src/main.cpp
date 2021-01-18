@@ -24,7 +24,7 @@ unsigned long previousMillis_fire_2 = 0;   //store last update time
 //RGB section
 
 
-#define NUM_LEDS 1 
+#define NUM_LEDS 1
 #define LED_TYPE    WS2812b
 #define DATA_PIN 18
 #define BRIGHTNESS 255
