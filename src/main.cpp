@@ -1,6 +1,8 @@
 #include <Arduino.h>
 #include <FastLED.h>
 //fire_1
+
+//dit is een test
 const int led_1_Pin =  11;
 const int led_2_Pin =  10;
 const int led_3_Pin =  9;
